@@ -1,5 +1,8 @@
-\name{monthly_payment}
+\name{monthlyPaymentCalc}
+\docType{package}
 
+\alias{monthlyPaymentCalc}
+\alias{monthlyPaymentCalc-package}
 \alias{monthly_payment}
 
 \title{Calculate the monthly payment of a mortgage}
@@ -37,3 +40,4 @@ monthly_payment(LA, months, IR=0)
 monthly_payment(350000, months=360, IR=3)  # $1475.6/month
 }
 \keyword{manip}
+\keyword{package}
