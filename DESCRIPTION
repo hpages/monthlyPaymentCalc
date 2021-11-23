@@ -1,0 +1,8 @@
+Package: monthlyPaymentCalc
+Title: Monthly payment calculator
+Description: Calculate the monthly payment of a mortgage.
+Version: 0.0.1
+Encoding: UTF-8
+Author: Hervé Pagès
+Maintainer: Hervé Pagès <hpages.on.github@gmail.com>
+License: Artistic-2.0
